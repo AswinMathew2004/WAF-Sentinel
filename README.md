@@ -46,7 +46,7 @@ A powerful, multi-technique WAF detection and fingerprinting tool designed for p
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/waf-sentinel.git
+git clone https://github.com/AswinMathew2004/WAF-Sentinel.git
 cd waf-sentinel
 
 # Install dependencies
@@ -60,7 +60,7 @@ chmod +x waf-sentinel.py
 
 ```bash
 # Most dependencies ship with Kali — just clone and run
-git clone https://github.com/YOUR_USERNAME/waf-sentinel.git
+git clone https://github.com/AswinMathew2004/WAF-Sentinel.git
 cd waf-sentinel
 python3 waf-sentinel.py -t example.com
 ```
